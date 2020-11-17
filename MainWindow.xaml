@@ -1,0 +1,13 @@
+﻿<Window x:Class="ManagingIntellectualProperty.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagingIntellectualProperty"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="528" Width="851">
+    <Grid Margin="0,0,48,80">
+        <Image Margin="8,11,-28,-67" Stretch="Fill" Source="/image.jpg"/>
+
+    </Grid>
+</Window>
