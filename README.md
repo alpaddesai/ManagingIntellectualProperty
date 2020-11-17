@@ -1,6 +1,6 @@
 # Managing Intellectual Property
 
-The project provides an overview of the health benefits of traveling
+The project provides an overview of the types of intellectual property
 
 Confidential information is not displayed.Images are custom.
 
